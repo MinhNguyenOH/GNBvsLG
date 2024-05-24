@@ -1,4 +1,4 @@
-# Privacy-Preserving Machine Learning
+# Gaussian Naive Bayes vs Logistic Regression for differential privacy
 
 ## Overview
 
