@@ -107,5 +107,3 @@ For any questions or suggestions, feel free to open an issue or contact the proj
 - Andrew Pham: pham_l2@denison.edu
 - Minh Nguyen: nguyen_v2@denison.edu
 ```
-
-Copy and paste the above content into a file named `README.md` in your project directory. This should give a comprehensive overview of your project, including its structure, installation instructions, usage, and contact information.
